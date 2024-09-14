@@ -26,10 +26,28 @@ For your final project, you will choose a dataset from a government agency and p
 
 - Presentation Date: TBA
 
-#### Content
+#### Prelims Content
 
 - **Comprehensive Data Analysis:** Perform a full analysis of the dataset, incorporating advanced techniques such as correlations, groupings, or time series analysis where appropriate. Ensure the data is cleaned and properly prepared for analysis.
 - **Preliminary Data Analysis:** Conduct an initial exploration of the data. This may include data cleaning, missing value handling, and summary statistics (mean, median, mode, standard deviation).
 - **Preliminary Visualization:** Present initial visualizations (bar charts, line graphs, histograms, etc.) that summarize key insights from the dataset.
 - **Preliminary Machine Learning Model:** Briefly introduce the type of machine learning model (supervised or unsupervised) that you plan to implement in your final analysis.
 - **Insights:** Present your preliminary findings and discuss any interesting trends or observations.
+
+3. Final Presentation (Finals):
+
+- Presentation Date: TBA
+
+#### Finals Content
+
+- **Comprehensive Data Analysis:** Perform a full analysis of the dataset, incorporating advanced techniques such as correlations, groupings, or time series analysis where appropriate. Ensure the data is cleaned and properly prepared for analysis.
+- **Machine Learning Model Implementation:**
+  - Choose either a supervised model (e.g., linear regression, decision trees, or classification) or an unsupervised model (e.g., clustering using K-means or PCA).
+  - Train the model using your dataset, and evaluate its performance.
+  - Explain your choice of model and the metrics used to evaluate its accuracy or effectiveness.
+- **Advanced Data Visualization:** Use multiple forms of data visualizations (scatter plots, box plots, heatmaps, etc.) to convey your findings effectively. Ensure that visualizations are meaningful and well-explained.
+- **Conclusion and Recommendations:** Based on your analysis and model results, provide recommendations or conclusions. Discuss the real-world implications of your findings.
+
+4. Report Submission:
+
+- Along with your final presentation, you are required to submit a detailed report documenting your entire process, including data cleaning, analysis steps, visualizations, machine learning model implementation, and findings. Ensure the report is well-structured and professional.
