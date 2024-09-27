@@ -9,6 +9,8 @@
 
 ### NOTE: The datasets folder is in the gitignore to account for large datasets
 
+### Gdrive Link for Datasets: <https://drive.google.com/drive/u/0/folders/16iET5K4InzNzp9mWxnZSwUPf57YTv9Pu>
+
 ## Guidelines
 
 ### Project Overview
@@ -24,19 +26,19 @@ For your final project, you will choose a dataset from a government agency and p
 
 2. Preliminary Presentation (Prelim):
 
-- Presentation Date: TBA
+- Presentation Date: Prelims
 
 #### Prelims Content
 
-- **Comprehensive Data Analysis:** Perform a full analysis of the dataset, incorporating advanced techniques such as correlations, groupings, or time series analysis where appropriate. Ensure the data is cleaned and properly prepared for analysis.
+- **Background of the Dataset:** Provide details on where the dataset was obtained, the agency's role, and the purpose of the data. Explain the structure of the dataset, including variables and data types.
 - **Preliminary Data Analysis:** Conduct an initial exploration of the data. This may include data cleaning, missing value handling, and summary statistics (mean, median, mode, standard deviation).
 - **Preliminary Visualization:** Present initial visualizations (bar charts, line graphs, histograms, etc.) that summarize key insights from the dataset.
 - **Preliminary Machine Learning Model:** Briefly introduce the type of machine learning model (supervised or unsupervised) that you plan to implement in your final analysis.
 - **Insights:** Present your preliminary findings and discuss any interesting trends or observations.
 
-3. Final Presentation (Finals):
+1. Final Presentation (Finals):
 
-- Presentation Date: TBA
+- Presentation Date: Finals
 
 #### Finals Content
 
