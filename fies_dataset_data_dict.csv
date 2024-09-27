@@ -1,0 +1,92 @@
+Column Name,Data Type,Non-Null Count,Unique Values,Description
+RDMD_ID,int64,163268,163268,Unique identifier for the record
+Region,int64,163268,17,Region code
+Province,int64,163268,87,Province code
+Household ID,int64,163268,163268,Unique household identifier
+RECODED PROVINCE,int64,163268,119,Recoded province information
+Family Size,float64,163268,39,Number of people in the household
+Salaries/Wages from Regular Employment,int64,163268,31822,Income from regular employment
+Salaries/Wages from Seasonal Employment,int64,163268,9064,Income from seasonal employment
+Income from Salaries and Wages,int64,163268,36459,Total income from salaries and wages
+"Net Share of Crops, Fruits, etc. (Tot. Net Value of Share)",int64,163268,2219,Net value from crop and fruit share
+"Cash Receipts, Support, etc. from Abroad",int64,163268,1544,Cash support received from abroad
+"Cash Receipts, Support, etc. from Domestic Source",int64,163268,3969,Cash support received domestically
+"Rentals Received from Non-Agri Lands, etc.",int64,163268,557,Income from land rentals (non-agricultural)
+Unnamed: 13,int64,163268,498,Unknown or unnamed column
+Pension and Retirement Benefits,int64,163268,1863,Income from pensions and retirement
+Dividends from Investment,int64,163268,245,Income from dividends
+Other Sources of Income NEC,int64,163268,409,Other sources of income not elsewhere classified
+Family Sustenance Activities,int64,163268,9972,Income from family sustenance activities
+Total Received as Gifts,float64,163268,24314,Total gifts received by the household
+Crop Farming and Gardening,int64,163268,20675,Income from crop farming and gardening
+Livestock and Poultry Raising,int64,163268,4254,Income from livestock and poultry raising
+Fishing,int64,163268,6199,Income from fishing activities
+Forestry and Hunting,int64,163268,1390,Income from forestry and hunting
+Wholesale and Retail,int64,163268,9541,Income from wholesale and retail business
+Manufacturing,int64,163268,2173,Income from manufacturing activities
+"Transportation, Storage Services",int64,163268,5310,Income from transportation and storage services
+Entrep. Activities NEC,int64,163268,2716,Income from entrepreneurial activities (not elsewhere classified)
+Entrep. Activities NEC.1,int64,163268,376,Income from entrepreneurial activities (additional category 1)
+Entrep. Activities NEC.2,int64,163268,408,Income from entrepreneurial activities (additional category 2)
+"Hhld, Income from Entrepreneurial Activities, Total",int64,163268,33921,Total household income from entrepreneurial activities
+Losses from EA,int64,163268,64,Losses from entrepreneurial activities
+Cereal and Cereal Preparations (Total),float64,163268,54407,Expenditure on cereals and cereal preparations
+Meat and Meat Preparations,float64,163268,43218,Expenditure on meat and meat preparations
+Fish and Marine Products (Total),float64,163268,34494,Expenditure on fish and marine products
+Dairy Products and Eggs (Total),float64,163268,24216,Expenditure on dairy products and eggs
+Oils and Fats (Total),float64,163268,8516,Expenditure on oils and fats
+Fruits and Vegetables,float64,163268,17608,Expenditure on fruits and vegetables
+Vegetables (Total),float64,163268,25427,Expenditure on vegetables
+"Sugar, Jam and Honey (Total)",float64,163268,12305,"Expenditure on sugar, jam, and honey"
+Food Not Elsewhere Classified (Total),float64,163268,25983,Expenditure on other food items
+Fruit and vegetable juices,float64,163268,6424,Expenditure on fruit and vegetable juices
+"Coffee, Cocoa and Tea (Total)",float64,163268,10683,"Expenditure on coffee, cocoa, and tea"
+Tea (total)  expenditure,float64,163268,2441,Expenditure on tea
+Cocoa (total)  expenditure,float64,163268,4064,Expenditure on cocoa
+Main Source of Water Supply (2nd visit only),float64,163268,4225,Main source of water supply (second visit)
+Softdrinks,float64,163268,4886,Expenditure on soft drinks
+Other Non Alcoholic Beverages,float64,163268,1390,Expenditure on other non-alcoholic beverages
+Alcoholic Beverages (Total),float64,163268,6351,Expenditure on alcoholic beverages
+Tobacco (Total),float64,163268,7407,Expenditure on tobacco products
+Other Vegetables (Total),float64,163268,938,Expenditure on other types of vegetables
+Services_Primary_Goods,int64,163268,467,Expenditure on services and primary goods
+Alcohol Procduction Services,int64,163268,98,Expenditure on alcohol production services
+Total Food Consumed at Home (Total),float64,163268,115717,Total food consumed at home
+Food Regularly Consumed Outside The Home (Total),float64,163268,8373,Food consumed outside the home
+"Hhld, Food",float64,163268,120455,Household expenditure on food
+"Clothing, Footwear and Other Wear",int64,163268,14447,"Expenditure on clothing, footwear, and other wear"
+Housing and water (Total),int64,163268,39945,Expenditure on housing and water
+Actual House Rent,int64,163268,571,Expenditure on actual house rent
+Imputed House Rental Value,int64,163268,1107,Imputed value of house rental
+Imputed Housing Benefit Rental Value,int64,163268,66,Imputed value of housing benefit rental
+House Rent/Rental Value,int64,163268,1390,Expenditure on house rent/rental value
+"Furnishings, Household Equipment & Routine Household Mainte",int64,163268,19468,Expenditure on furnishings and household equipment
+Health (Total),int64,163268,20903,Expenditure on health services and products
+Transportation (Total),int64,163268,25211,Expenditure on transportation
+Communication (Total),int64,163268,15135,Expenditure on communication services
+Recreation and Culture (Total),int64,163268,6999,Expenditure on recreation and culture
+Education (Total),int64,163268,6551,Expenditure on education
+Insurance,int64,163268,11161,Expenditure on insurance
+Miscellaneous Goods and Services (Total),int64,163268,27248,Expenditure on miscellaneous goods and services
+Durable Furniture,int64,163268,3911,Expenditure on durable furniture
+Special Family Occasion,int64,163268,3593,Expenditure on special family occasions
+"Other Expenditure (inc. Value Consumed, Losses)",int64,163268,8762,Other expenditures including losses
+Other Disbursements,int64,163268,9127,Other household disbursements
+Accomodation Services,int64,163268,280,Expenditure on accommodation services
+Total Non-Food Expenditure,float64,163268,119459,Total non-food expenditure
+"Hhld, Income, Total",float64,163268,111009,Total household income
+"Hhld, Expenditures, Total",float64,163268,142321,Total household expenditures
+Total Household Disbursements,object,163268,144056,Total household disbursements
+Other Receipts,int64,163268,4155,Other household receipts
+Total Receipts,float64,163268,111856,Total receipts
+Psu (Recode),int64,163268,2163,Primary Sampling Unit (recoded)
+Raising Factor,float64,163268,10756,Raising factor for survey results
+Final Population Weights,float64,163268,86028,Final weights for population data
+Urban / Rural,int64,163268,2,Urban or rural classification
+Per Capita Income,float64,163268,134011,Household per capita income
+NPCINC,int64,163268,10,National per capita income
+RPCINC,int64,163268,10,Regional per capita income
+Per Capita Income Decile (Province),int64,163268,10,Per capita income decile in the province
+pPCINC,int64,163268,10,Provincial per capita income decile
+Per Capita Income Decile (Region with Negros Island Region (NIR)),int64,163268,10,Per capita income decile (region with NIR)
+Region (with NIR),int64,163268,18,Region code including NIR
