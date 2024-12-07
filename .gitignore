@@ -3,3 +3,5 @@ notes.txt
 fies_df.csv
 X.csv
 X.xlsx
+
+/checkpoints/fies_ann_checkpoint_fold*.pth
