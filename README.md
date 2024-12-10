@@ -36,7 +36,7 @@ For your final project, you will choose a dataset from a government agency and p
 - **Preliminary Machine Learning Model:** Briefly introduce the type of machine learning model (supervised or unsupervised) that you plan to implement in your final analysis.
 - **Insights:** Present your preliminary findings and discuss any interesting trends or observations.
 
-1. Final Presentation (Finals):
+3. Final Presentation (Finals):
 
 - Presentation Date: Finals
 
